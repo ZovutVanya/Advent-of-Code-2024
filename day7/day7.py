@@ -1,6 +1,6 @@
 from itertools import product
 
-with open("input.txt", "r") as f:
+with open("input7.txt", "r") as f:
     lines = [line.strip() for line in f.readlines()]
 
 # for part one remove ||
